@@ -18,6 +18,7 @@
                     <TextBox  Text="{Binding Article}"></TextBox>
                 </StackPanel>
 
+                
                 <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
                     <TextBlock>Наименование</TextBlock>
                     <TextBox Text="{Binding Name}"></TextBox>
